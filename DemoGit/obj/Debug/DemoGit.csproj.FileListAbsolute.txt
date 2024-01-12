@@ -1,0 +1,7 @@
+C:\Users\exttejo\source\repos\DemoGit\DemoGit\bin\Debug\DemoGit.exe.config
+C:\Users\exttejo\source\repos\DemoGit\DemoGit\bin\Debug\DemoGit.exe
+C:\Users\exttejo\source\repos\DemoGit\DemoGit\bin\Debug\DemoGit.pdb
+C:\Users\exttejo\source\repos\DemoGit\DemoGit\obj\Debug\DemoGit.csproj.AssemblyReference.cache
+C:\Users\exttejo\source\repos\DemoGit\DemoGit\obj\Debug\DemoGit.csproj.CoreCompileInputs.cache
+C:\Users\exttejo\source\repos\DemoGit\DemoGit\obj\Debug\DemoGit.exe
+C:\Users\exttejo\source\repos\DemoGit\DemoGit\obj\Debug\DemoGit.pdb
